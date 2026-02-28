@@ -1,0 +1,8 @@
+/*
+
+Q3 [30 points]. Develop the UML diagram (with relationship, visibility modifiers, and appropriate notation, if possible) for all Java classes (from Q2). 
+You may also draw the UML diagram on paper (if you do not want to use an online graphics/drawing program like draw.io). 
+Please ensure that hand drawings and images are legible. 
+Upload your solution image file or the diagram file (say, ans3-UMLdiagram-Kshetri.png) to your repository (inside diagram package) if you did it from draw.io.
+
+*/
